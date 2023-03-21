@@ -57,9 +57,9 @@ public class challenge5 {
 		password.sendKeys("1234567890");
 		WebElement confirmpassword = l.findElement(By.id("secondpassword"));
 		confirmpassword.sendKeys("1234567890");
-		WebElement button = l.findElement(By.xpath("//button[@id='submitbtn']"));
-		button.click();
-		
+//		WebElement button = l.findElement(By.xpath("//button[@id='submitbtn']"));
+//		button.click();
+//		
 		
 		
 		
